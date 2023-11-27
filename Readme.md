@@ -1,4 +1,4 @@
-# GIF with Imageio
+# Checkpoint Project
 
 ## Python3
 
